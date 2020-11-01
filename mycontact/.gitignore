@@ -1,0 +1,7 @@
+.dart_tool
+.idea
+.metadata
+pubspec.lock
+.packages
+mycontact.iml
+README.md
